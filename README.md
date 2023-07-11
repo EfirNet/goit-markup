@@ -1,3 +1,2 @@
-# goit-markup-hw-06
-
-> 05-10-2022
+# goit-markup-hw-07
+homework7
