@@ -21,3 +21,11 @@
 </div>
 
 ![WebStudio](./WebStudio.png)
+<br />
+<br />
+<br />
+<div align="right"  title="A prominent Dutch scientist whose ideas had a huge impact on the development of the computer industry.">
+
+> *"Simplicity is the key to reliability" - Edsger W. Dijkstra*
+
+</div>
