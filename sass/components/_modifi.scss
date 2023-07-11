@@ -1,4 +1,4 @@
-/* Модифікатори Modifiers */
+
 
 .subscribe__label--hidden,
 .feature__title--hidden,
@@ -10,5 +10,10 @@
  .address__link--change-color {
   color: var(--white-color);
   } 
+
+
+  .mobile-menu__link--current {
+    color: var(--accent-color)
+  }
 
 
