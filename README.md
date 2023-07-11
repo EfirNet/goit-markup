@@ -20,4 +20,4 @@
 <br />
 </div>
 
-![WebStudio](/../WebStudio.png)
+![WebStudio](./WebStudio.png)
