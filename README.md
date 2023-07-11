@@ -2,6 +2,8 @@
 
 # HTML + CSS BOOTCAMP
 
+🗓 **`01/09/2022 - 16/10/2022`**
+
 ## Homework is organized into branches
 
 `HTML+CSS : 14 classes, 28 hours, 7 assignments on Tech Skills`
